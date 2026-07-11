@@ -1,7 +1,5 @@
 # Discord 24/7 Rich Presence
 
-[![Preview](./assets/1688311925824.webp)](https://www.youtube.com/watch?v=I2pK5s4EIsw)
-
 > Keep your Discord account **online 24/7** with custom **Rich Presence**!. Show games, music, streaming or any custom activity—even when you're AFK. Lightweight and simple to use!
 
 ---
@@ -71,18 +69,3 @@ This is for **educational use only**. Misuse can lead to **Discord account restr
 
 This project is licensed under **The UnLicense** See the [LICENSE](LICENSE) file for details.
 
----
-
-## 📬 Contact & Community
-
-💬 Join us on **Discord**: [Click Here](https://discord.gg/H7pVc9aUK2)  
-🐦 **Follow on Twitter**: [@nexoslabs](https://twitter.com/nexoslabs)  
-📧 **Email**: [contact@nexoscreation.tech](mailto:contact@nexoscreation.tech)
-
-<p align="center">
-  Made with ❤️ by the <a href="https://github.com/nexoslabs">@nexoslabs</a> Team
-</p>
-
-<p align="center">
-  <a href="https://github.com/nexoslabs/discord-24-7-rich-presence/stargazers">⭐ Star us on GitHub!</a>
-</p>
