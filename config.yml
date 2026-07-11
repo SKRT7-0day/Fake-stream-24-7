@@ -1,0 +1,30 @@
+# Replace with your Discord Application ID
+application_id: "1518057776817901659"
+
+# Activity type: 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
+type: 3
+
+# Activity Details
+name: "Youtube"
+details: "Watching Nexos Labs"
+state: "Subscribe"
+
+# Activity Images
+largeImageKey: "estt"
+largeImageText: "SKRT7"
+smallImageKey: "1377845999464087653"
+smallImageText: "Subscribe"
+
+# Activity URL (optional, works only with certain types)
+url: "https://www.youtube.com/@nexoscreator"
+
+# Activity Buttons (optional)
+buttons:
+  - name: "Visit Website"
+    url: "https://www.twitch.tv/monkt_nadr36"
+  - name: "cookies"
+    url: "https://www.instagram.com/skrt7_66?igsh=bWZzeHdhNDJtOGo2"
+
+# Activity Custom status
+custom_status: "Watching tutorials"
+custom_emoji: "🔥"
